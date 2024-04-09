@@ -1,6 +1,5 @@
 - 👋 Hi, I’m hardik 
-- 👀 I’m interested in web development and algo trading
-- 🌱 I’m currently learning font end web development
+- 👀 I’m interested in web development
 - 📫 How to reach me on gmail -hardik.bha65@gmail.com
 
 
