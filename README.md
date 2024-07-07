@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik0001" alt="hardik0001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hardikbha65" target="blank"><img src="https://img.shields.io/twitter/follow/hardikbha65?logo=twitter&style=for-the-badge" alt="hardikbha65" /></a> </p>
+
 
 - 📫 How to reach me **hardik.bha65@gmail.com**
 
